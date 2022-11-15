@@ -2,8 +2,6 @@
 
 [![Gem Version](https://badge.fury.io/rb/bootstrap-select2-rails.png)](http://badge.fury.io/rb/bootstrap-select2-rails)
 
-[![endorse](https://api.coderwall.com/nerian/endorsecount.png)](https://coderwall.com/nerian)
-
 bootstrap-select2-rails project integrates a Select2 and Bootstrap 5 theme with the Rails assets pipeline.
 
 http://github.com/Nerian/bootstrap-select2-rails

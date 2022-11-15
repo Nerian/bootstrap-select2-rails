@@ -55,7 +55,6 @@ class Utilities < Thor
   def publish
     tags = `git tag`.split
     current_version = BootstrapSelect2Rails::Rails::VERSION
-    binding.pry
     run("gem build bootstrap-select2-rails.gemspec")
     run("git tag -a #{current_version} -m 'Release #{current_version}'") unless tags.include?(current_version)
     run("gem push bootstrap-select2-rails-#{current_version}.gem")
