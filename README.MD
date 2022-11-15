@@ -6,8 +6,10 @@ bootstrap-select2-rails project integrates a Select2 and Bootstrap 5 theme with 
 
 http://github.com/Nerian/bootstrap-select2-rails
 
-https://github.com/select2/select2
-https://github.com/apalfrey/select2-bootstrap-5-theme
+## Original code
+
+* https://github.com/select2/select2
+* https://github.com/apalfrey/select2-bootstrap-5-theme
 
 
 ## Install
