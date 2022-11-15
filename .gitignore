@@ -1,0 +1,4 @@
+Gemfile.lock
+*.gem
+select2-src
+select2-theme-src
